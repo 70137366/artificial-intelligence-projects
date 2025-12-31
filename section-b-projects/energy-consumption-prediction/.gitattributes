@@ -1,1 +1,2 @@
 backend/dataset/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
+[[:space:]]C:/Users/RBTG/energy-ai-ui/backend/dataset/household_power_consumption.txt filter=lfs diff=lfs merge=lfs -text
